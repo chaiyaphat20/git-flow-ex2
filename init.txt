@@ -4,3 +4,4 @@
 4.release fix bug1
 5.hot fix 0.1.1
 6.feature table
+7.fix bug release2
